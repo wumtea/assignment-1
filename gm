@@ -1,0 +1,3 @@
+let Surname = 'Fuseini'
+Let Othernames = 'Wumtea AbdulRazak'
+Console.log = (Surname + Othernames);
